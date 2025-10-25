@@ -112,6 +112,7 @@
 
 ### Установить репозиторий
 ```pip install -e git+https://github.com/Astrages4/Lab1-Python```
+\
 ```cd src/Lab1-Python```
 
 ### Запустить
