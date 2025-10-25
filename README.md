@@ -111,9 +111,9 @@
 ## Инструкция к использованию
 
 ### Установить репозиторий
-```pip install -e git+https://github.com/Astrages4/Lab1-Python```
+```pip install -e git+https://github.com/Astrages4/Lab1-Python#egg=main.py```
 \
-```cd src/Lab1-Python```
+```cd src/main.py```
 
 ### Запустить
 ```python -m src.main```
